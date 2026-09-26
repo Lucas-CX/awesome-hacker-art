@@ -98,6 +98,8 @@ things
 
 `Web-based utilities to create, edit, and explore hacker-style visuals.`
 
+- **[Image to ASCII (imagetoascii.art)](https://imagetoascii.art/)** - Free browser-based image converter with local processing, adjustable character sets, and TXT, Markdown, PNG, SVG, HTML, and ANSI exports.
+
 - **[Patorjk Text to ASCII Art Generator](https://patorjk.com/software/taag/)** - Create text art from words
 - **[Image to ASCII](https://www.asciiart.eu/image-to-asciiyour)** - Your go-to destination for turning images into stunning ASCII art creations
 - **[TAAG](http://patorjk.com/software/taag/)** - Online text banner ASCII generator.
